@@ -36,3 +36,23 @@
   color: var(--papel);
   border-bottom-color: var(--latao);
 }
+
+.header__favoritos {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--metal);
+  font-weight: 500;
+}
+
+.header__contador {
+  min-width: 1.6rem;
+  padding: 0.05rem 0.55rem;
+  background: var(--latao);
+  color: var(--tinta);
+  font-family: var(--fonte-titulo);
+  font-weight: 700;
+  font-size: 1.1rem;
+  text-align: center;
+  border-radius: 3px;
+}

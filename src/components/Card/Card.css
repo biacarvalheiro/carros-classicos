@@ -78,3 +78,36 @@
 .card__detalhe dd {
   margin: 0;
 }
+
+.card__favoritar {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-top: 0.4rem;
+  padding: 0.4rem 0.9rem 0.4rem 0.7rem;
+  background: transparent;
+  color: var(--verde);
+  font: inherit;
+  font-weight: 500;
+  border: 1px solid var(--verde);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.card__coracao {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+
+.card__favoritar--ativo {
+  background: var(--verde);
+  color: var(--papel);
+}
+
+.card__favoritar--ativo .card__coracao {
+  fill: var(--latao);
+  stroke: var(--latao);
+}

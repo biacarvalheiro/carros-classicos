@@ -38,3 +38,40 @@
   justify-content: center;
   gap: 2rem 1.5rem;
 }
+
+.categoria__barra {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #d6dad4;
+}
+
+.categoria__contagem {
+  margin: 0;
+  color: var(--tinta-suave);
+}
+
+.categoria__filtro {
+  padding: 0.4rem 0.9rem;
+  background: transparent;
+  color: var(--verde);
+  font: inherit;
+  font-weight: 500;
+  border: 1px solid var(--verde);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.categoria__filtro--ativo {
+  background: var(--verde);
+  color: var(--papel);
+}
+
+.categoria__vazio {
+  max-width: 50ch;
+  margin: 0;
+  color: var(--tinta-suave);
+}
