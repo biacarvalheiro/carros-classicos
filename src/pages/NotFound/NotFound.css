@@ -1,0 +1,27 @@
+.nao-encontrada {
+  flex: 1;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1.25rem;
+}
+
+.nao-encontrada__titulo {
+  font-size: 2.75rem;
+  color: var(--verde);
+}
+
+.nao-encontrada__texto {
+  margin: 0;
+  color: var(--tinta-suave);
+}
+
+.nao-encontrada__link {
+  color: var(--verde);
+  font-weight: 500;
+  text-underline-offset: 4px;
+}

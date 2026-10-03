@@ -37,3 +37,8 @@ img {
   max-width: 100%;
   display: block;
 }
+
+:focus-visible {
+  outline: 3px solid var(--latao);
+  outline-offset: 2px;
+}

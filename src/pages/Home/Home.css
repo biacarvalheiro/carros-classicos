@@ -1,0 +1,42 @@
+.home {
+  flex: 1;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.home__apresentacao {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.home__titulo {
+  max-width: 16ch;
+  font-size: clamp(2.75rem, 7vw, 4.75rem);
+  color: var(--verde);
+}
+
+.home__texto {
+  max-width: 55ch;
+  margin: 0;
+  font-size: 1.15rem;
+  color: var(--tinta-suave);
+}
+
+.home__categorias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+}
+
+.home__todos {
+  align-self: flex-start;
+  color: var(--verde);
+  font-weight: 500;
+  text-underline-offset: 4px;
+}
