@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "nacionais",
+    "titulo": "Nacionais",
+    "descricao": "Os classicos que marcaram as ruas brasileiras."
+  },
+  {
+    "slug": "muscle-cars",
+    "titulo": "Muscle Cars",
+    "descricao": "Motores V8 e muita potencia vindos dos Estados Unidos."
+  },
+  {
+    "slug": "esportivos",
+    "titulo": "Esportivos",
+    "descricao": "Velocidade e design que viraram lenda."
+  },
+  {
+    "slug": "luxo",
+    "titulo": "Luxo",
+    "descricao": "Sofisticacao e estilo de uma epoca."
+  }
+]

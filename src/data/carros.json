@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "nome": "Volkswagen Fusca",
+    "marca": "Volkswagen",
+    "ano": 1959,
+    "categoria": "nacionais",
+    "pais": "Alemanha / Brasil",
+    "motor": "4 cilindros boxer, refrigerado a ar",
+    "descricao": "Simbolo da popularizacao do automovel no Brasil, produzido no pais a partir de 1959.",
+    "imagem": "/images/fusca.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Chevrolet Opala",
+    "marca": "Chevrolet",
+    "ano": 1968,
+    "categoria": "nacionais",
+    "pais": "Brasil",
+    "motor": "4 ou 6 cilindros em linha",
+    "descricao": "Primeiro carro de passeio de porte medio da GM no Brasil, ficou em producao ate 1992.",
+    "imagem": "/images/opala.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Volkswagen Brasilia",
+    "marca": "Volkswagen",
+    "ano": 1973,
+    "categoria": "nacionais",
+    "pais": "Brasil",
+    "motor": "4 cilindros boxer, refrigerado a ar",
+    "descricao": "Desenvolvida no Brasil sobre a base do Fusca, virou um dos carros mais populares dos anos 70.",
+    "imagem": "/images/brasilia.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Ford Maverick",
+    "marca": "Ford",
+    "ano": 1973,
+    "categoria": "nacionais",
+    "pais": "Brasil",
+    "motor": "4 e 6 cilindros em linha ou V8",
+    "descricao": "Cupe esportivo da Ford, lancado no Brasil em 1973 e lembrado ate hoje pela versao com motor V8.",
+    "imagem": "/images/maverick.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Ford Mustang",
+    "marca": "Ford",
+    "ano": 1964,
+    "categoria": "muscle-cars",
+    "pais": "Estados Unidos",
+    "motor": "6 cilindros em linha ou V8",
+    "descricao": "Criou a categoria dos pony cars e se tornou um dos carros esportivos mais iconicos da historia.",
+    "imagem": "/images/mustang.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Chevrolet Camaro",
+    "marca": "Chevrolet",
+    "ano": 1967,
+    "categoria": "muscle-cars",
+    "pais": "Estados Unidos",
+    "motor": "6 cilindros em linha ou V8",
+    "descricao": "Resposta da Chevrolet ao Mustang, rapidamente virou um simbolo dos muscle cars americanos.",
+    "imagem": "/images/camaro.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Dodge Charger R/T",
+    "marca": "Dodge",
+    "ano": 1968,
+    "categoria": "muscle-cars",
+    "pais": "Estados Unidos",
+    "motor": "V8 440 Magnum",
+    "descricao": "Visual agressivo e muita potencia, ficou famoso tambem por aparecer em filmes classicos.",
+    "imagem": "/images/charger.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Porsche 911",
+    "marca": "Porsche",
+    "ano": 1964,
+    "categoria": "esportivos",
+    "pais": "Alemanha",
+    "motor": "6 cilindros boxer, refrigerado a ar, traseiro",
+    "descricao": "Esportivo que mantem o mesmo conceito ha decadas e e referencia em carros de alto desempenho.",
+    "imagem": "/images/porsche-911.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Jaguar E-Type",
+    "marca": "Jaguar",
+    "ano": 1961,
+    "categoria": "esportivos",
+    "pais": "Reino Unido",
+    "motor": "6 cilindros em linha",
+    "descricao": "Considerado um dos carros mais bonitos ja fabricados, unia design elegante e alto desempenho.",
+    "imagem": "/images/e-type.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Chevrolet Corvette",
+    "marca": "Chevrolet",
+    "ano": 1953,
+    "categoria": "esportivos",
+    "pais": "Estados Unidos",
+    "motor": "6 cilindros em linha",
+    "descricao": "Primeiro esportivo americano com carroceria de fibra de vidro, inicio de uma linhagem que continua ate hoje.",
+    "imagem": "/images/corvette.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Cadillac Eldorado",
+    "marca": "Cadillac",
+    "ano": 1959,
+    "categoria": "luxo",
+    "pais": "Estados Unidos",
+    "motor": "V8",
+    "descricao": "Famoso pelas enormes aletas traseiras, representa o auge do luxo e do exagero dos anos 50.",
+    "imagem": "/images/eldorado.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Mercedes-Benz 300 SL",
+    "marca": "Mercedes-Benz",
+    "ano": 1954,
+    "categoria": "luxo",
+    "pais": "Alemanha",
+    "motor": "6 cilindros em linha com injecao direta",
+    "descricao": "Conhecido pelas portas asa de gaivota, foi um dos carros mais rapidos de sua epoca.",
+    "imagem": "/images/300sl.jpg"
+  }
+]
