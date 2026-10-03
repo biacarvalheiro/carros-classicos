@@ -1,3 +1,15 @@
+:root {
+  --verde: #1e3a2f;
+  --verde-escuro: #14281f;
+  --metal: #c8cdd0;
+  --latao: #b8914f;
+  --papel: #f1f2ee;
+  --tinta: #1b1f1d;
+  --tinta-suave: #5a625e;
+  --fonte-titulo: 'Barlow Condensed', 'Arial Narrow', system-ui, sans-serif;
+  --fonte-texto: 'Barlow', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
 *,
 *::before,
 *::after {
@@ -6,8 +18,19 @@
 
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  font-family: var(--fonte-texto);
   line-height: 1.5;
+  color: var(--tinta);
+  background: var(--papel);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--fonte-titulo);
+  font-weight: 600;
+  line-height: 1.1;
+  margin: 0;
 }
 
 img {

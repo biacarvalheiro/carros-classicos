@@ -1,9 +1,16 @@
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer'
+import Categoria from './pages/Categoria/Categoria'
 import './App.css'
 
 function App() {
   return (
     <div className="app">
-      <h1>Garagem Clássica</h1>
+      <Header />
+      <main className="app__conteudo">
+        <Categoria />
+      </main>
+      <Footer />
     </div>
   )
 }
