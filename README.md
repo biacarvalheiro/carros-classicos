@@ -2,7 +2,7 @@
 
 Catálogo de carros clássicos feito como uma SPA (Single Page Application) com React e Vite. Projeto prático da Avaliação 1, desenvolvido no formato hackathon.
 
-**Aplicação em produção:** _preencher com o link da Vercel após o deploy_
+Aplicação em produção: https://carros-classicos.vercel.app/
 
 ## Sobre o projeto
 
