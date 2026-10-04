@@ -25,3 +25,13 @@
   font-weight: 500;
   text-underline-offset: 4px;
 }
+
+@media (max-width: 600px) {
+  .nao-encontrada {
+    padding: 1.5rem 1rem 2.5rem;
+  }
+
+  .nao-encontrada__titulo {
+    font-size: 2.25rem;
+  }
+}

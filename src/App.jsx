@@ -20,8 +20,11 @@ function App() {
 
   return (
     <div className="app">
+      <a href="#conteudo" className="app__pular">
+        Pular para o conteúdo
+      </a>
       <Header totalFavoritos={favoritos.length} />
-      <main className="app__conteudo">
+      <main id="conteudo" tabIndex={-1} className="app__conteudo">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route

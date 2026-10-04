@@ -7,7 +7,7 @@
     "categoria": "nacionais",
     "pais": "Alemanha / Brasil",
     "motor": "4 cilindros boxer, refrigerado a ar",
-    "descricao": "Simbolo da popularizacao do automovel no Brasil, produzido no pais a partir de 1959.",
+    "descricao": "Símbolo da popularização do automóvel no Brasil, produzido no país a partir de 1959.",
     "imagem": "/images/fusca.jpg"
   },
   {
@@ -18,12 +18,12 @@
     "categoria": "nacionais",
     "pais": "Brasil",
     "motor": "4 ou 6 cilindros em linha",
-    "descricao": "Primeiro carro de passeio de porte medio da GM no Brasil, ficou em producao ate 1992.",
+    "descricao": "Primeiro carro de passeio de porte médio da GM no Brasil, ficou em produção até 1992.",
     "imagem": "/images/opala.jpg"
   },
   {
     "id": 3,
-    "nome": "Volkswagen Brasilia",
+    "nome": "Volkswagen Brasília",
     "marca": "Volkswagen",
     "ano": 1973,
     "categoria": "nacionais",
@@ -40,7 +40,7 @@
     "categoria": "nacionais",
     "pais": "Brasil",
     "motor": "4 e 6 cilindros em linha ou V8",
-    "descricao": "Cupe esportivo da Ford, lancado no Brasil em 1973 e lembrado ate hoje pela versao com motor V8.",
+    "descricao": "Cupe esportivo da Ford, lançado no Brasil em 1973 e lembrado até hoje pela versão com motor V8.",
     "imagem": "/images/maverick.jpg"
   },
   {
@@ -51,7 +51,7 @@
     "categoria": "muscle-cars",
     "pais": "Estados Unidos",
     "motor": "6 cilindros em linha ou V8",
-    "descricao": "Criou a categoria dos pony cars e se tornou um dos carros esportivos mais iconicos da historia.",
+    "descricao": "Criou a categoria dos pony cars e se tornou um dos carros esportivos mais icônicos da história.",
     "imagem": "/images/mustang.jpg"
   },
   {
@@ -62,7 +62,7 @@
     "categoria": "muscle-cars",
     "pais": "Estados Unidos",
     "motor": "6 cilindros em linha ou V8",
-    "descricao": "Resposta da Chevrolet ao Mustang, rapidamente virou um simbolo dos muscle cars americanos.",
+    "descricao": "Resposta da Chevrolet ao Mustang, rapidamente virou um símbolo dos muscle cars americanos.",
     "imagem": "/images/camaro.jpg"
   },
   {
@@ -73,7 +73,7 @@
     "categoria": "muscle-cars",
     "pais": "Estados Unidos",
     "motor": "V8 440 Magnum",
-    "descricao": "Visual agressivo e muita potencia, ficou famoso tambem por aparecer em filmes classicos.",
+    "descricao": "Visual agressivo e muita potência, ficou famoso também por aparecer em filmes clássicos.",
     "imagem": "/images/charger.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "categoria": "esportivos",
     "pais": "Alemanha",
     "motor": "6 cilindros boxer, refrigerado a ar, traseiro",
-    "descricao": "Esportivo que mantem o mesmo conceito ha decadas e e referencia em carros de alto desempenho.",
+    "descricao": "Esportivo que mantém o mesmo conceito há décadas e e referência em carros de alto desempenho.",
     "imagem": "/images/porsche-911.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "categoria": "esportivos",
     "pais": "Reino Unido",
     "motor": "6 cilindros em linha",
-    "descricao": "Considerado um dos carros mais bonitos ja fabricados, unia design elegante e alto desempenho.",
+    "descricao": "Considerado um dos carros mais bonitos já fabricados, unia design elegante e alto desempenho.",
     "imagem": "/images/e-type.jpg"
   },
   {
@@ -106,7 +106,7 @@
     "categoria": "esportivos",
     "pais": "Estados Unidos",
     "motor": "6 cilindros em linha",
-    "descricao": "Primeiro esportivo americano com carroceria de fibra de vidro, inicio de uma linhagem que continua ate hoje.",
+    "descricao": "Primeiro esportivo americano com carroceria de fibra de vidro, início de uma linhagem que continua até hoje.",
     "imagem": "/images/corvette.jpg"
   },
   {
@@ -128,7 +128,7 @@
     "categoria": "luxo",
     "pais": "Alemanha",
     "motor": "6 cilindros em linha com injecao direta",
-    "descricao": "Conhecido pelas portas asa de gaivota, foi um dos carros mais rapidos de sua epoca.",
+    "descricao": "Conhecido pelas portas asa de gaivota, foi um dos carros mais rápidos de sua época.",
     "imagem": "/images/300sl.jpg"
   }
 ]

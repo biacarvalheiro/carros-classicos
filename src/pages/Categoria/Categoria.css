@@ -75,3 +75,14 @@
   margin: 0;
   color: var(--tinta-suave);
 }
+
+@media (max-width: 600px) {
+  .categoria {
+    padding: 1.5rem 1rem 2.5rem;
+    gap: 2rem;
+  }
+
+  .categoria__titulo {
+    font-size: 2.25rem;
+  }
+}

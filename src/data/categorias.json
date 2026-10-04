@@ -2,12 +2,12 @@
   {
     "slug": "nacionais",
     "titulo": "Nacionais",
-    "descricao": "Os classicos que marcaram as ruas brasileiras."
+    "descricao": "Os clássicos que marcaram as ruas brasileiras."
   },
   {
     "slug": "muscle-cars",
     "titulo": "Muscle Cars",
-    "descricao": "Motores V8 e muita potencia vindos dos Estados Unidos."
+    "descricao": "Motores V8 e muita potência vindos dos Estados Unidos."
   },
   {
     "slug": "esportivos",
@@ -17,6 +17,6 @@
   {
     "slug": "luxo",
     "titulo": "Luxo",
-    "descricao": "Sofisticacao e estilo de uma epoca."
+    "descricao": "Sofisticação e estilo de uma época."
   }
 ]

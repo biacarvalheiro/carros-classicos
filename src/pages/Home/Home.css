@@ -13,6 +13,8 @@
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding-left: 1.25rem;
+  border-left: 6px solid var(--latao);
 }
 
 .home__titulo {
@@ -39,4 +41,19 @@
   color: var(--verde);
   font-weight: 500;
   text-underline-offset: 4px;
+}
+
+@media (max-width: 600px) {
+  .home {
+    padding: 2rem 1rem 3rem;
+    gap: 2rem;
+  }
+
+  .home__apresentacao {
+    padding-left: 1rem;
+  }
+
+  .home__texto {
+    font-size: 1.05rem;
+  }
 }
